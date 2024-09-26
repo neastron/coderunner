@@ -1,4 +1,2 @@
-# Code-Player
-A  JS Bin clone to test your HTML CSS JavaScript code.
-
-![Screenshot](screenshot.png "Screenshot")
+# Code-Runner
+HTML CSS JavaScript kodunuzu test etmek için javascript bağlantılı uzantı.
